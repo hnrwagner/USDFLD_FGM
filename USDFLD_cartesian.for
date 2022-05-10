@@ -1,4 +1,4 @@
-C     ABAQUS Subroutine for functionally graded material (FGM) in a cartesian coordinate system 2D
+C     ABAQUS Subroutine for functionally graded material (FGM) in a cartesian coordinate system
 C			
 C
 C     More Infos can be found at 
