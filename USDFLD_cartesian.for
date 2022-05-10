@@ -39,7 +39,7 @@ c       calculate Young module
 c       define depend state variable (E(z))
         FIELD(1) = E
 c       save E value for state dependend variable
-        STATEV(1) = 210000*EXP(E*-0.01)
+        STATEV(1) = 208000*EXP(E*-0.01)
 
 C---------------------------------------------------------------------------------------
 
